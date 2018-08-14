@@ -1,4 +1,4 @@
-# HU_Adult_Web_Development
+# HU Adult Web Development
 
 ## HTML
 ## CSS
