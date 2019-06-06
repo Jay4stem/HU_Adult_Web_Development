@@ -4,7 +4,7 @@
 4. Take user input for x and y and calculate sum
 5. Use a for loop to take as many as 5 numbers to add. Once user inputs 5 number calculate the sum. 
 
-6. Write a Python program to count the number of even and odd numbers from a series of numbers. Go to the editor
+6. Write a Python program to count the number of even and odd numbers from a series of numbers.
   Sample numbers : numbers = (1, 2, 3, 4, 5, 6, 7, 8, 9) 
     Expected Output : 
     Number of even numbers : 5
@@ -17,7 +17,7 @@
 8. calculate a dog's age in dog's years.
 Note: For the first two years, a dog year is equal to 10.5 human years. After that, each dog year equals 4 human years.
 
-9. Write a Python program to construct the following pattern, using a nested loop number. Go to the editor
+9. Write a Python program to construct the following pattern, using a nested loop number.
 Expected Output:
 
 1
