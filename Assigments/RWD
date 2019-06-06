@@ -13,3 +13,19 @@
 7. Write a Python program that prints all the numbers from 0 to 6 except 3 and 6.
     Note : Use 'continue' statement. 
     Expected Output : 0 1 2 4 5 
+
+8. calculate a dog's age in dog's years.
+Note: For the first two years, a dog year is equal to 10.5 human years. After that, each dog year equals 4 human years.
+
+9. Write a Python program to construct the following pattern, using a nested loop number. Go to the editor
+Expected Output:
+
+1
+22
+333
+4444
+55555
+666666
+7777777
+88888888
+999999999
