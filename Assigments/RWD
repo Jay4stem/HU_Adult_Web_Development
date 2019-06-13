@@ -35,3 +35,5 @@ Expected Output:
 11. Write a Python program to display the first and last colors from the following list.
 
     color_list = ["Red","Green","White" ,"Black"]
+    
+12. Write a Python program to get the 4th element and 4th element from last of a tuple. The tuple must have more than 6 items.
