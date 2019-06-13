@@ -29,3 +29,9 @@ Expected Output:
 7777777
 88888888
 999999999
+
+10. Write a Python program to get the smallest number from a list.
+
+11. Write a Python program to display the first and last colors from the following list.
+
+    color_list = ["Red","Green","White" ,"Black"]
